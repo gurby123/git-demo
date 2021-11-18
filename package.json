@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/gurby123/git-demo/issues"
   },
-  "homepage": "https://github.com/gurby123/git-demo#readme"
+  "homepage": "https://github.com/gurby123/git-demo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
 }
